@@ -1,0 +1,28 @@
+/*mobile first approch
+mobile
+tablet
+laptop
+pc*/
+body{
+    background-color: green;
+}
+/*
+mobile->0 to 768px
+tablet-> 768px
+laptop-> 1200px
+pc-> 1400*/
+
+/*tablet*/
+
+@media (min-width: 768px){
+    body{
+        background-color: blue;
+    }
+    
+}
+/*laptop*/
+@media(min-width: 1020px){
+    body{
+        background-color: red;
+    }
+}

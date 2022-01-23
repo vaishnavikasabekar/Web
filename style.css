@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+
+
+}
+input{
+    width: 500px;
+}
+p{
+    font-weight: bold;
+}
+button{
+    background-color: coral;
+    border: 3px dotted white;
+    color: white;
+}
+
+.vaishnavi{
+    color: white;
+}
+#blue{
+    color: blue;
+}

@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+}
+input[type="text"]{
+    width: 100%;
+}
+
+input[type="password"]{
+    width: 50%;
+}

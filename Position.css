@@ -1,0 +1,16 @@
+.parent{
+    position: relative;
+    background-color: red;
+    width: 30%;
+    height: 400px;
+}
+.child{
+    position: absolute;
+    display: inline-block;
+    background-color: teal;
+    height:150px;
+    width:150px;
+    margin:10px;
+    left:  0%;
+    bottom: 0%;
+}

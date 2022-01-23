@@ -1,0 +1,13 @@
+.parent{
+    background-color: red;
+    width: 100%;
+    height: 400px;
+    
+}
+.child{
+    display: inline-block;
+    background-color: pink;
+    height:150px;
+    width:150px;
+    margin:10px;
+}

@@ -1,0 +1,14 @@
+button{
+    margin: 150px;
+    background-color: violet;
+    border: 2px solid purple;
+    color: white;
+    border-radius: 6px;
+    padding: 15px;
+}
+button:hover{
+    background-color: blue;
+}
+button:focus{
+    background-color: red;
+}
